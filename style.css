@@ -1,0 +1,37 @@
+.d-flex{
+    margin-left: 650px;
+}
+.navbar-brand{
+    color:rgb(151, 208, 208);
+}
+.navbar-brand:hover{
+    color:bisque
+}
+.nav-link active{
+    color:rgb(151, 208, 208);
+}
+.nav-link active:hover{
+    color:bisque
+}
+.nav-link{
+    color:rgb(151, 208, 208);
+}
+.nav-link:hover{
+    color:bisque
+}
+.nav-link dropdown-toggle{
+    color:rgb(151, 208, 208);
+}
+.nav-link dropdown-toggle:hover{
+    color:bisque
+}
+.nav-link disabled{
+    color:rgb(151, 208, 208);
+}
+.nav-link disabled:hover{
+    color:bisque
+}
+.container my-3:h1{
+    color:bisque;
+}
+
